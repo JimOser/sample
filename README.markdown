@@ -1,7 +1,11 @@
-== Sample app
+# Sample app
+Hi,
+ I am using markdown to write this README file.
 This app uses: rails 3 tutorial rails 3.0.7 ruby 1.9.2 ;
 The rvm command is:
 rvm use ruby-1.9.2-p180@rails3tutorial
+
+More information contact [Jim Oser](mailto:oserj@oserconsulting.com)
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
