@@ -6,6 +6,6 @@ Sample::Application.initialize!
 # bad practice global variable
 # $base_title = "Buzz n Boots"
 module MyAppName
-    BASE_TITLE  = "Buzz n Boots"
+    BASE_TITLE  = "Oser Computer Solutions"
 end
 
